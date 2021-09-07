@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A Ilha Record (P)" tvg-name="A Ilha Record (P)" tvg-logo="https://i.imgur.com/gyoKwLf.png" group-title="Canais | Abertos",A Ilha Record (P)
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/81736.ts
+#EXTINF:-1 tvg-id="A Ilha Record (S)" tvg-name="A Ilha Record (S)" tvg-logo="https://i.imgur.com/gyoKwLf.png" group-title="Canais | Abertos",A Ilha Record (S)
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/81737.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/37130.ts
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",A&E FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/40263.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",A&E H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62889.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/36929.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E HD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50614.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="A&E [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50628.ts
+#EXTINF:-1 tvg-id="A&E | Dual Áudio " tvg-name="A&E | Dual Áudio" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Dual Audio",A&E | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63257.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Filmes e Series",AMC
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/41087.ts
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Full HD",AMC FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/40262.ts
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD [ALT]" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC FHD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50636.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",AMC H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62888.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Filmes e Series",AMC HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/36928.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD  [ALT]" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC HD  [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50639.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC [ALT]" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50640.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",ANIMAL PLANET H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62794.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET [ALT]" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Alternativos",ANIMAL PLANET [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50641.ts
+#EXTINF:-1 tvg-id="ANIMAL PLANET | Dual Áudio " tvg-name="ANIMAL PLANET | Dual Áudio" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Dual Audio",ANIMAL PLANET | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63256.ts
+#EXTINF:-1 tvg-id="ARTE 1 | Dual Áudio " tvg-name="ARTE 1 | Dual Áudio" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Dual Audio",ARTE 1 | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63255.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/37132.ts
+#EXTINF:-1 tvg-id="AXN " tvg-name="AXN   | Dual Áudio" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Dual Audio",AXN   | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63225.ts
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Full HD",AXN FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/41468.ts
+#EXTINF:-1 tvg-id="AXN FHD (LEG)" tvg-name="AXN FHD (LEG)" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title=" Canais | Legendado",AXN FHD (LEG)
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/81803.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD [ALT]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN FHD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50644.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",AXN H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62796.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Filmes e Series",AXN HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/36991.ts
+#EXTINF:-1 tvg-id="AXN HD  (LEG)" tvg-name="AXN HD (LEG)" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title=" Canais | Legendado",AXN HD (LEG)
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/81804.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD [ALT]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN HD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50646.ts
+#EXTINF:-1 tvg-id="AXN [4K]" tvg-name="AXN [4K]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | 4K",AXN [4K]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/74799.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN [ALT]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50647.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXÉ" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",AXÉ
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54286.ts
+#EXTINF:-1 tvg-id="Agro Canal HD" tvg-name="Agro Canal HD" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="Canais | Abertos",Agro Canal HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/71074.ts
+#EXTINF:-1 tvg-id="Agromais" tvg-name="Agromais" tvg-logo="https://i.imgur.com/Em9N5ua.png" group-title="Canais | Abertos",Agromais
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/76251.ts
+#EXTINF:-1 tvg-id="Agromais HD" tvg-name="Agromais HD" tvg-logo="https://i.imgur.com/Em9N5ua.png" group-title="Canais | Abertos",Agromais HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/76250.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/37128.ts
+#EXTINF:-1 tvg-id="Animal Planet FHD" tvg-name="Animal Planet FHD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Full HD",Animal Planet FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/38392.ts
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/36992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet [4K]" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | 4K",Animal Planet [4K]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/61841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000 A" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 2000 A
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000 B" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 2000 B
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 70
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80 A" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 80 A
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80 B" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 80 B
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 90 A" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 90 A
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 90 B" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",Anos 90 B
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54283.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/37133.ts
+#EXTINF:-1 tvg-id="Arte 1 FHD" tvg-name="Arte 1 FHD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Full HD",Arte 1 FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/41467.ts
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Variedades",Arte 1 HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 [ALT]" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1 [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50643.ts
+#EXTINF:-1 tvg-id="Avila Beach Hotel" tvg-name="Avila Beach Hotel" tvg-logo="https://r-cf.bstatic.com/images/hotel/max1024x768/160/160310559.jpg" group-title="Câmeras | Ao Vivo",Avila Beach Hotel
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/71488.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV HD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50648.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50649.ts
+#EXTINF:-1 tvg-id="BAND CAMPINAS FHD" tvg-name="BAND CAMPINAS FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",BAND CAMPINAS FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/77850.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD [ALT]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Alternativos",BAND CAMPINAS HD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50650.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BAND H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62887.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BAND SPORTS H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62798.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD [ALT]" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS HD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50656.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS [ALT]" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50657.ts
+#EXTINF:-1 tvg-id="BAND | Dual Áudio " tvg-name="BAND | Dual Áudio" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Dual Audio",BAND | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63232.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/37131.ts
+#EXTINF:-1 tvg-id="BIS FHD" tvg-name="BIS FHD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Full HD",BIS FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/38403.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD [ALT]" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Alternativos",BIS FHD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50660.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BIS H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62799.ts
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/36988.ts
+#EXTINF:-1 tvg-id="BIS | Dual Áudio " tvg-name="BIS | Dual Áudio" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Dual Audio",BIS | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63262.ts
+#EXTINF:-1 tvg-id="BJJ STAR IV HD" tvg-name="BJJ STAR IV HD" tvg-logo="https://www.bjjheroes.com/wp-content/uploads/2019/02/BJJStars.jpg" group-title="Canais | Esportes",BJJ STAR IV HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/76261.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD [ALT]" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Alternativos",BOOMERANG FHD [ALT]
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/50663.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BOOMERANG H265
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/62800.ts
+#EXTINF:-1 tvg-id="BOOMBERANG | Dual Áudio " tvg-name="BOOMERANG | Dual Áudio" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Dual Audio",BOOMERANG | Dual Áudio
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63233.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOSSA NOVA" tvg-logo="https://i.imgur.com/SbOzsYZ.jpg" group-title="Rádios",BOSSA NOVA
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/54287.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/36993.ts
+#EXTINF:-1 tvg-id="BabyTV FHD" tvg-name="BabyTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Full HD",BabyTV FHD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63635.ts
+#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil",BabyTV HD
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/63634.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band
+http://tv.urllista.com/live/Andersonfonseca1/x85ue6x85/37127.ts
